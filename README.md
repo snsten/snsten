@@ -6,7 +6,7 @@
 - 🌱 I’m currently working as ML Enginner
 - :bulb: I'm interested in: CV, NLP and Rendering
 - ⚡ Fun fact: I like learning languages, sé un poco de español, 日本語をべんきょうしています
-- 🧑‍💻 Tech I work on include:
+- 🧑‍💻 The tech I work on:
 
 
 <p align="center">
